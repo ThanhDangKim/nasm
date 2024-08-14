@@ -1,0 +1,10 @@
+1. Bật power shell
+2. gõ: wsl -l (kiểm tra máy ảo)
+3. gõ: wsl -d <tên máy ảo hiện ra> (để vào máy ảo)
+4. cd ~
+5. ls 
+6. ls -l
+7. cd nasm (thư mục chứa code nasm)
+8. Mở VS Code
+9. Góc trái dưới chọn kết nối với máy ảo Ubuntu
+10. Đã code được
